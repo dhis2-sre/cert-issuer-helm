@@ -1,0 +1,11 @@
+
+nameOverride: ""
+fullnameOverride: ""
+
+# Email of account holder
+# email:
+
+# ACME server
+# server:
+
+ingressClass: nginx
